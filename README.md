@@ -1,0 +1,9 @@
+- 👋 Hi, I’m shiva!!!
+- 👀 I’m interested in  Web Development And Coding...
+- 🌱 I’m currently learning Algorithms and Data Structures...
+- 📫 How to reach me s.shiva0076@gmail.com or 8008256300 ...
+
+<!---
+shiva0076/shiva0076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
